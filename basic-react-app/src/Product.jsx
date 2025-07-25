@@ -3,7 +3,7 @@ import Price from "./Price";
 import "./Product.css"
 
 export default function Product({ title, idx }) {
-  let oldPrices = ["12,4449", "11,900", "1,599", "599"];
+  let oldPrices = ["12,449", "11,900", "1,599", "599"];
   let newPrices = ["8,999", "9,199", "899", "270"];
   let description = [
     ["9,000 DPI","5 Programmable buttons"],
