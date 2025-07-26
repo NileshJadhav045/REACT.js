@@ -38,7 +38,7 @@ export default function TodoList() {
 
   return (
     <div className="todo-container">
-      <h2>odo List</h2>
+      <h2>Todo List</h2>
       <input
         type="text"
         placeholder="Add a task..."
